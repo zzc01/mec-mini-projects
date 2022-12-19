@@ -16,3 +16,8 @@ Thumbs.db
 .vscode/*
 
 .env*
+
+myModules.py
+*_draft.ipynb
+commoncrawl/
+kaggle/

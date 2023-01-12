@@ -23,3 +23,9 @@ commoncrawl/
 kaggle/
 proj-5.2.2-iris-dataset/
 pyScrnSht/
+
+
+quotes.db-journal/
+scrap_quotes/
+sqlLite3Test.py
+quotes.db-journal

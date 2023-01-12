@@ -7,16 +7,16 @@
 - Store the quotes into JSON file 
 - Load the JSON file data into Sqlite3 database 
 
-## Files
-- quotes_xpath_spider.py 
+## File Information
+- quotes_xpath_spider.py: 
 The scaping script using XPATH selector 
-- quotes_spider.py
+- quotes_spider.py:
 The scaping script using CSS selector 
-- quotes_xpath.json
+- quotes_xpath.json:
 JSON file collected using XPATH selector with quotes_xpath_spider.py 
-- quotes.json
+- quotes.json:
 JSON file collected using CSS selector with quotes_spider.py 
-- quotes.db
+- quotes.db:
 Sqlite3 database
-- jsonToSqlLite3.ipynb
+- jsonToSqlLite3.ipynb:
 Is used to load the JSON file into Sqlite3 database 

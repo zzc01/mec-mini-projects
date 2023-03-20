@@ -29,3 +29,5 @@ quotes.db-journal/
 scrap_quotes/
 sqlLite3Test.py
 quotes.db-journal
+
+*.csv
